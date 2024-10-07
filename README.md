@@ -5,7 +5,7 @@
    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a> -->
  </p>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimhan0421&count_private=true&show_icons=true&theme=dracula" />
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimhan0421&count_private=true&show_icons=true&theme=dracula" /> -->
 </h1>
  
 <div align="left">
