@@ -37,20 +37,18 @@ npm install auto-hyphen-utils
 yarn add auto-hyphen-utils
 ```
 
-## 🗃 **Side Project**
+### **Side Project**
 
-🚀 **km-front**
-🔹 **Tech Stack:** TypeScript, React, Next.js, SWR, Chakra UI  
-🔹 **Key Work:**  
-- Improved **LCP (Largest Contentful Paint)** for better performance 🚀  
-- Developed **modular & reusable UI components** for scalability  
-- Implemented **SWR for efficient data caching**  
-
-🔗 [GitHub Repository](https://github.com/kimhan0421/km-front)  
+🚀 **km-front**  
+📌 A platform integrating cultural activity data, enabling users to search and create personalized roadmaps. 
+- Designed **scalable UI architecture** with **Atomic Design** & **Reusable Components**  
+- Optimized **state management** (Recoil) & **API handling** (Axios interceptors)  
+- Refactored Recoil to React Query → 📄 [Blog](https://velog.io/@kimhan0421/React%EC%97%90%EC%84%9C-API-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EA%B0%80%EC%A0%B8%EC%98%A4%EB%8A%94-%EB%B0%A9%EB%B2%95-Recoil-vs.-React-Query)
+- 🔗 [GitHub Repository](https://github.com/teamesa/km-front)
 
 ---
 
-## 📬 **Let’s Connect!**
+## 📬 **Connect!**
 📧 **Email:** `kohasi0421@gmail.com`  
 🌐 **Blog:** [velog.io/@kimhan0421](https://velog.io/@kimhan0421)  
  
