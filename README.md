@@ -25,7 +25,7 @@
 ## 📦 **Recently Published Library**
 💡 **I recently developed and published my own NPM library!**  
 
-### **[auto-hyphen-utils](https://www.npmjs.com/package/auto-hyphen-utils)**
+### **[auto-hyphen-utils](https://www.npmjs.com/package/auto-hyphen-utils) (2024.12.24 - ing)**
 🛠 **A lightweight JavaScript utility for auto-formatting input fields.**  
 - Supports **auto-hyphenation** for business registration numbers, phone numbers, etc.  
 - Optimized for **high performance** & **developer-friendly API**.  
@@ -39,7 +39,7 @@ yarn add auto-hyphen-utils
 
 ### **Side Project**
 
-🚀 **km-front**  
+🚀 **km-front (2022.02 - 2023.03)** <br/>
 📌 A platform integrating cultural activity data, enabling users to search and create personalized roadmaps. 
 - Designed **scalable UI architecture** with **Atomic Design** & **Reusable Components**  
 - Optimized **state management** (Recoil) & **API handling** (Axios interceptors)  
